@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.MasayukiSuda:Mp4Composer-android:v0.4.0@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/f1c89ef49b065cdb7717904877105bf3/jetified-Mp4Composer-android-v0.4.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/f1c89ef49b065cdb7717904877105bf3/jetified-Mp4Composer-android-v0.4.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/f1c89ef49b065cdb7717904877105bf3/jetified-Mp4Composer-android-v0.4.0/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.MasayukiSuda/Mp4Composer-android/v0.4.0/470a5f57adfc141659bb3188f6fd97d905660dea/Mp4Composer-android-v0.4.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,2 @@
+include ':app',':discreteScrollViewLibrary', ':trimmer-telegram',':epf'
+rootProject.name = "AndVideoEditingTool"

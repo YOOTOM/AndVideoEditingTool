@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/AndVideoEditingTool.iml" filepath="$PROJECT_DIR$/.idea/modules/AndVideoEditingTool.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/AndVideoEditingTool.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/AndVideoEditingTool.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/discreteScrollViewLibrary/AndVideoEditingTool.discreteScrollViewLibrary.iml" filepath="$PROJECT_DIR$/.idea/modules/discreteScrollViewLibrary/AndVideoEditingTool.discreteScrollViewLibrary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/epf/AndVideoEditingTool.epf.iml" filepath="$PROJECT_DIR$/.idea/modules/epf/AndVideoEditingTool.epf.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/trimmer-telegram/AndVideoEditingTool.trimmer-telegram.iml" filepath="$PROJECT_DIR$/.idea/modules/trimmer-telegram/AndVideoEditingTool.trimmer-telegram.iml" />
+    </modules>
+  </component>
+</project>
